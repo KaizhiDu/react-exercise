@@ -1,9 +1,6 @@
 import React from "react";
 
 const UserDetail = ({user}) => {
-
-  console.log(user);
-
   return (
     <>
       {user?(
