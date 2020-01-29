@@ -8,10 +8,10 @@ import Homework4 from "./components/homework4/homework4.component";
 import Homework5 from "./components/homework5/homework5.component";
 import Homework6 from "./components/homework6/homework6.component";
 import Homework7 from "./components/homework7/homework7.component";
+import Homework8 from "./components/homework8/homework8.component";
 
 
 const App = () => {
-
 
   return (
     <>
@@ -24,6 +24,7 @@ const App = () => {
         <Route exact path='/hm5' component={Homework5}/>
         <Route exact path='/hm6' component={Homework6}/>
         <Route exact path='/hm7' component={Homework7}/>
+        <Route exact path='/hm8' component={Homework8}/>
       </Switch>
     </>
   );

@@ -1,0 +1,21 @@
+.leftPanel {
+    margin-top: 0px;
+    width: 200px;
+    border-width: 1px;
+    border-style: solid;
+    background: antiquewhite;
+}
+.emailListPanel {
+    margin-top: 0px;
+    width: 400px;
+    border-width: 1px;
+    border-style: solid;
+    background: antiquewhite;
+}
+.detailPanel {
+    margin-top: 0px;
+    width: 500px;
+    border-width: 1px;
+    border-style: solid;
+    background: antiquewhite;
+}
