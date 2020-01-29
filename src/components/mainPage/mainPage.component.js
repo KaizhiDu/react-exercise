@@ -14,6 +14,8 @@ const MainPage = ({history}) => {
       <button onClick={() => history.push('/hm5')}>Homework5</button>
       <br/><br/>
       <button onClick={() => history.push('/hm6')}>Homework6</button>
+      <br/><br/>
+      <button onClick={() => history.push('/hm7')}>Homework7</button>
     </>
   );
 };

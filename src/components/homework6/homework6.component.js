@@ -37,8 +37,6 @@ const Homework6 = () => {
   const [toDoList, setToDoList] = useState([]);
   const [value, setValue] = useState('');
 
-  console.log(toDoList);
-
   const handleValueChange = (e) => {
     setValue(e.target.value);
   };
